@@ -7,4 +7,8 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+   build: {
+    outDir: 'dist', // <- this creates a dist folder
+    emptyOutDir: true // <- clears dist before building
+  }
 })
