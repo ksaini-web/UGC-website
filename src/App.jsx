@@ -9,7 +9,7 @@ import TopHead from "./part1/TopHead";
 import DropDown from './part1/DropDown';
 import Slider1 from './part1/Slider1';
 import Marquee from './part1/Marquee';
-import Modiji from './part1/modiji';
+import Modiji from './part1/Modiji';
 import Grids from './part1/Grids';
 import PageNotfound from './PageNotfound'
 import Photodiv from  './part1/Photodiv.jsx';
